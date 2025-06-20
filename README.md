@@ -1,29 +1,47 @@
-# TS-UPDATES for TS-DOS
+# TS-UPDATES for TS-DOS - Download Branch
 
-Welcome to the **TS-UPDATES for TS-DOS Repository**! This is the official hub for managing, downloading, and installing updates for the retro-inspired **TS-DOS** operating system.
-
----
-
-## **What is TS-UPDATES for TS-DOS?**
-
-**TS-UPDATES for TS-DOS** is a powerful and intuitive console-based updater system designed to keep your TS-DOS software up-to-date. With seamless integration and a retro-inspired interface, TS-UPDATES ensures users always have the latest features and fixes.
+Welcome to the **Download Branch** of the **TS-UPDATES for TS-DOS Repository**! This branch is dedicated to hosting and managing update packages for TS-DOS, ensuring users have easy access to the latest releases.
 
 ---
 
-## **Key Features**
+## **Purpose of the Download Branch**
 
-- **Update Detection**: Checks for the latest updates available on GitHub.
-- **Version Validation**: Confirms that the release is compatible with the current system and matches today's date.
-- **Automated Installation**: Uninstalls the previous version and installs the latest update in one streamlined process.
-- **User Prompts**: Displays a confirmation window for users before proceeding with any installation.
-- **Rollback Support**: Keeps the software stable by ensuring updates can be reverted if needed (future feature).
+The Download Branch serves as:
+
+- A central hub for storing all release files.
+- A reliable source for users to download updates directly.
+- An organized structure to support version tracking and archival of older releases.
 
 ---
 
-## **How to Use TS-UPDATES for TS-DOS**
+## **How to Download Updates**
 
-1. Clone this repository:  
+1. Navigate to the latest release in the **Download Branch**.
+2. Select the update file (e.g., `update.zip`) corresponding to your version.
+3. Click **Download** to save the file locally.
+4. Follow the [Installation Guide](../README.md#installation-guide) to apply the update.
 
-   ```bash
-   git clone https://github.com/Coolis1362/TS-UPDATES-for-TS-DOS.git
-   ```
+---
+
+## **Branch Structure**
+
+- **/releases**: Contains all update files, categorized by version (e.g., `v1.0.0`).
+- **README.md**: Provides guidance on how to use the branch effectively.
+- **Changelogs/**: A folder containing detailed notes on what's new in each release.
+
+---
+
+## **Current Update**
+
+- **Version**: v1.0.2
+- **Release Date**: April 4, 2025
+- **Changelog**:
+  - Improved system stability and error handling.
+  - Added compatibility with Python workloads.
+  - Enhanced user experience during updates.
+
+---
+
+## **Feedback and Support**
+
+If you encounter any issues
